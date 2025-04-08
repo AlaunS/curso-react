@@ -1,5 +1,12 @@
 import {useEffect, useState} from "react";
 
+// Funciones
+// Arreglos
+
+// Ciclos
+// Objetos
+// Clases y Tipos
+
 export const App = () => {
 
     // Funciones para inicializar el programa y controlar
@@ -13,20 +20,21 @@ export const App = () => {
 
     // Función donde vamos a programar toda la lógica en consola
     const OnStart = () => {
-        console.log("Hola mundo");
-    }
 
-    // Función para imprimir hola mundo
-    const PrintAdiosMundo = () => {
-        console.log("Adios mundo");
+        // Funciones
+        // const nombreFuncion = () => { codigo }
+
+        // Funciones sin parametros
+        // Funciones con parametros
+        // Funciones de retorno
+        // Funciones con variables temporales
+
+        // const funcion = () => {}
     }
 
     return (
         <div className="p-3">
-            <button
-                className="bg-zinc-300 rounded-lg hover:cursor-pointer p-3"
-                onClick={() => PrintAdiosMundo()}
-            >Imprimir</button>
+
         </div>
     )
 }
